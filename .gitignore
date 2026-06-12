@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+blog-env/
+fastapi-env/
+venv/
+env/
+
+# SQLite database
+*.db
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python env files
+.env
